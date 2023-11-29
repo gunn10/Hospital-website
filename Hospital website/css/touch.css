@@ -1,0 +1,26 @@
+header{
+    background-color: #1d253a;
+}
+
+.red{
+    color: red;
+}
+
+.nav_contact{
+    padding-left: 8px;
+    border-left: solid;
+}
+
+#Home_image{
+    margin-top: 42px;
+}
+
+.empty{
+    height: 10vh;
+    background-color: white;
+}
+
+.about_image{
+    margin-top: 56px;
+}
+
